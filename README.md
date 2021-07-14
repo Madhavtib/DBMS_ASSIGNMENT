@@ -1,1 +1,2 @@
-# super_duper_guacamole
+# DBMS Assignment
+## A simple login and registration form.
